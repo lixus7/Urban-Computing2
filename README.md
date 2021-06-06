@@ -25,7 +25,7 @@ pytorch: https://github.com/chnsh/DCRNN_PyTorch
 tensorflow: https://github.com/liyaguang/DCRNN             （Original author）
 
 # download the others（data and save）
-BaiduNetdisk url: 链接：https://pan.baidu.com/s/1fbIdwtW8GnyUgLPV_nnq3g 提取码：ZUYS 
+链接：https://github.com/liyaguang/DCRNN
 
 
 
